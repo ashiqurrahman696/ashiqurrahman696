@@ -55,9 +55,5 @@
 
 ---
 
-![Snake animation](https://github.com/ashiqurrahman696/ashiqurrahman696/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <p align="center">⭐️ Thanks for visiting! ⭐️</p>
 
