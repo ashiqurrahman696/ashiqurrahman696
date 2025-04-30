@@ -53,7 +53,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqurrahman696&layout=compact&theme=radical" height="180"/>
 </p>
 
----
 
-![Snake animation](https://github.com/ashiqurrahman696/ashiqurrahman696/blob/output/github-contribution-grid-snake.svg)
 
