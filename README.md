@@ -33,6 +33,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,react,bootstrap,nodejs,express,mongodb,py,pycharm,c,cpp,php,laravel,mysql,git,github,postman,vscode,vite,netlify,vercel,npm,nextjs,ts,wordpress" />
   </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiqurrahman696&show_icons=true&locale=en&layout=compact" alt="ashiqurrahman696" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiqurrahman696&show_icons=true&locale=en" alt="ashiqurrahman696" /></p>
 ---
 
 <p align="center">⭐️ Thanks for visiting! ⭐️</p>
