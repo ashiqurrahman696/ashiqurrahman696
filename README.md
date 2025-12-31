@@ -5,8 +5,10 @@
 <h1 align="center">Hi 👋, I'm Md Ashiqur Rahman Pranto</h1>
 <h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqurrahman696&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqurrahman696" /> </p>
+<h3 align="left">About Me</h3>
+<p align="left">Experienced Full-stack Developer with a passion for creating innovative and user-friendly web applications. Skilled in both front-end and back-end development, with a strong knowledge of various programming languages and technologies. Proven track record of delivering high-quality solutions that meet client requirements and exceed expectations. Excited to contribute my expertise to a dynamic team and help drive success through cutting-edge development practices.</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqurrahman696&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqurrahman696" /> </p>
 
 <p align="left">
   <a href="https://twitter.com/ashiqur_pranto" target="blank">
@@ -31,13 +33,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,react,bootstrap,nodejs,express,mongodb,py,pycharm,c,cpp,php,laravel,mysql,git,github,postman,vscode,vite,netlify,vercel,npm,nextjs,ts,wordpress" />
   </a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiqurrahman696&show_icons=true&locale=en&layout=compact" alt="ashiqurrahman696" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiqurrahman696&show_icons=true&locale=en" alt="ashiqurrahman696" /></p>
-
-
 ---
 
 <p align="center">⭐️ Thanks for visiting! ⭐️</p>
