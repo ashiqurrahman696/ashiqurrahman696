@@ -33,7 +33,11 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ashiqurrahman696)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiqurrahman696&show_icons=true&locale=en&layout=compact" alt="ashiqurrahman696" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiqurrahman696&show_icons=true&locale=en" alt="ashiqurrahman696" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqurrahman696&" alt="ashiqurrahman696" /></p>
 
 <p align="center">⭐️ Thanks for visiting! ⭐️</p>
 
